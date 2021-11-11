@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(218, 216, 216);
+    margin: 0;
+}
+main{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+header{
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between
+}
+header > h1{
+    padding-left: 290px;
+    margin: 0;
+}
+section{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+}
+span{
+    color: rgb(151, 148, 148);
+}
+.post1{
+    display: flex;
+    justify-content: space-between;
+}
+.post2{
+    display: flex;
+    justify-content: space-between;
+}
+.post3{
+    display: flex;
+    justify-content: space-between;
+}
+.post1 > p{
+    padding-left: 1rem;
+    font-size: 20px;
+}
+.post1 > span{
+    padding-top: 20px;
+    font-size: 1rem;
+    padding-right: 1rem;
+}
+section > .p1{
+    font-size: 20px;
+    padding: 1px;
+    padding-left: 1rem;
+}
+.post2 > p{
+    padding-left: 1rem;
+    font-size: 20px;
+}
+.post2 > span{
+    padding-top: 20px;
+    font-size: 1rem;
+    padding-right: 1rem;
+}
+section > .p2{
+    font-size: 20px;
+    padding: 1px;
+    padding-left: 1rem;
+}
+.post3 > p{
+    padding-left: 1rem;
+    font-size: 20px;
+}
+.post3 > span{
+    padding-top: 20px;
+    font-size: 1rem;
+    padding-right: 1rem;
+}
+section > .p3{
+    font-size: 20px;
+    padding: 1px;
+    padding-left: 1rem;
+}
